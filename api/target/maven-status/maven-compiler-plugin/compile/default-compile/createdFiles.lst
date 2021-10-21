@@ -1,0 +1,12 @@
+org\openmrs\module\projecttracker\ProjecttrackerActivator.class
+org\openmrs\module\projecttracker\api\dao\ConnectionPool.class
+org\openmrs\module\projecttracker\api\dao\ProjecttrackerDao.class
+org\openmrs\module\projecttracker\Item.class
+org\openmrs\module\projecttracker\api\dao\Database.class
+org\openmrs\module\projecttracker\ParameterStringBuilder.class
+org\openmrs\module\projecttracker\api\dao\PatientDao.class
+org\openmrs\module\projecttracker\api\dao\PerformanceDao.class
+org\openmrs\module\projecttracker\api\impl\ProjecttrackerServiceImpl.class
+org\openmrs\module\projecttracker\api\ProjecttrackerService.class
+org\openmrs\module\projecttracker\ProjecttrackerConfig.class
+org\openmrs\module\projecttracker\Performance.class

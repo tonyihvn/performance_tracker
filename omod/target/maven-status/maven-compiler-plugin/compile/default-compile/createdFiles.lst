@@ -1,0 +1,4 @@
+org\openmrs\module\projecttracker\web\controller\ProjecttrackerController.class
+org\openmrs\module\projecttracker\fragment\controller\UsersFragmentController.class
+org\openmrs\module\projecttracker\fragment\controller\PerformanceFragmentController.class
+org\openmrs\module\projecttracker\extension\html\AdminList.class

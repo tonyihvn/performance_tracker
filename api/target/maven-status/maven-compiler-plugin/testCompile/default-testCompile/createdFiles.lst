@@ -1,0 +1,2 @@
+org\openmrs\module\projecttracker\api\ProjecttrackerServiceTest.class
+org\openmrs\module\projecttracker\api\dao\ProjecttrackerDaoTest.class
